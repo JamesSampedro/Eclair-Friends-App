@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SLSbki2f7qG1zDe1gWzSioCPwXQeD2Ifn9b0FFMkjI9g+3EodAMjElPP9ppDe1fbimtSjLa0SZMzHToU33v8sA==",
+  "dgSpecHash": "JAAIbFHmvy1qKA+/LacHeOQMK5omDp50H2JmcEKZ37tjybRYOup2glyflpUQlLR3HfK3opRyEFgw2mwOgZrDcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jamez\\source\\repos\\Eclair-Friends-App\\Eclair-Friends-App\\FriendsApp.csproj",
+  "projectFilePath": "C:\\Users\\jamez\\Source\\Repos\\Eclair-Friends-App\\Eclair-Friends-App\\FriendsApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jamez\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\jamez\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
