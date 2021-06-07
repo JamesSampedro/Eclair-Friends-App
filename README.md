@@ -20,3 +20,8 @@ Sampedro, James Paul
 - Low Fidelity Wireframe: Login and Register
 - Studying for more
 - Created a weekly report excel sheet
+
+# Week 3
+- High Fidelity Wireframe: Login and Register
+- Studying for codes
+- Updated Excel weekly report
