@@ -25,3 +25,8 @@ Sampedro, James Paul
 - High Fidelity Wireframe: Login and Register
 - Studying for codes
 - Updated Excel weekly report
+
+# Week ４
+- API
+- Studying for designs
+- Updated Excel weekly report
