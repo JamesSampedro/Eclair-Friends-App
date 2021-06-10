@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendsApp", "FriendsApp.csproj", "{03762078-8DBA-4FE6-883A-772977887493}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendsApp", "FriendsApp.csproj", "{73F363ED-114D-4131-AAEE-0CD893F1A753}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{03762078-8DBA-4FE6-883A-772977887493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{03762078-8DBA-4FE6-883A-772977887493}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{03762078-8DBA-4FE6-883A-772977887493}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{03762078-8DBA-4FE6-883A-772977887493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73F363ED-114D-4131-AAEE-0CD893F1A753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F363ED-114D-4131-AAEE-0CD893F1A753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F363ED-114D-4131-AAEE-0CD893F1A753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F363ED-114D-4131-AAEE-0CD893F1A753}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {813593A9-7505-44D2-BFFD-21AC1FB3465B}
+		SolutionGuid = {934D9723-CF10-4B02-A8FD-8B7B181E1562}
 	EndGlobalSection
 EndGlobal

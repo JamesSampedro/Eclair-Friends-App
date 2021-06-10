@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jamez\\Source\\Repos\\Eclair-Friends-App\\Eclair-Friends-App\\FriendsApp.csproj": {}
+    "C:\\Users\\jamez\\Source\\Repos\\Eclair-Friends-App-master\\Eclair-Friends-App\\FriendsApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jamez\\Source\\Repos\\Eclair-Friends-App\\Eclair-Friends-App\\FriendsApp.csproj": {
+    "C:\\Users\\jamez\\Source\\Repos\\Eclair-Friends-App-master\\Eclair-Friends-App\\FriendsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jamez\\Source\\Repos\\Eclair-Friends-App\\Eclair-Friends-App\\FriendsApp.csproj",
+        "projectUniqueName": "C:\\Users\\jamez\\Source\\Repos\\Eclair-Friends-App-master\\Eclair-Friends-App\\FriendsApp.csproj",
         "projectName": "FriendsApp",
-        "projectPath": "C:\\Users\\jamez\\Source\\Repos\\Eclair-Friends-App\\Eclair-Friends-App\\FriendsApp.csproj",
+        "projectPath": "C:\\Users\\jamez\\Source\\Repos\\Eclair-Friends-App-master\\Eclair-Friends-App\\FriendsApp.csproj",
         "packagesPath": "C:\\Users\\jamez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jamez\\Source\\Repos\\Eclair-Friends-App\\Eclair-Friends-App\\obj\\",
+        "outputPath": "C:\\Users\\jamez\\Source\\Repos\\Eclair-Friends-App-master\\Eclair-Friends-App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jamez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,33 +37,24 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "Microsoft.AspNetCore.Identity": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.15, )"
+              "version": "[3.1.16, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.15, )"
+              "version": "[3.1.16, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.15, )"
+              "version": "[3.1.16, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.15, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[3.1.5, )"
+              "version": "[3.1.16, )"
             }
           },
           "imports": [
@@ -85,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
