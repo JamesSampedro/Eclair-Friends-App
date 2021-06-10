@@ -1,4 +1,4 @@
-# Eclair-Friends-App
+# Eclair-Friends-App - Excel weekly sheet update inside
 
 Members:
 
